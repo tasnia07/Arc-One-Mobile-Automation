@@ -1,4 +1,4 @@
-# ARC One Mobile App – Appium Automation Tests
+# Arc One Mobile App – Appium Automation Tests
 Automated test scripts for the Arc One Mobile App using Python + Appium on a real Android device.  
 This project covers key test scenarios, including navigation, form submissions, and validation checks.
 
