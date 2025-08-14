@@ -1,6 +1,4 @@
-# Excel-Technologies-SQA-Assignment
-
-## ABC Company Mobile App – Appium Automation Tests
+# ARC One Mobile App – Appium Automation Tests
 Automated test scripts for the ABC Company Mobile App using Python + Appium on a real Android device.  
 This project covers key test scenarios, including navigation, form submissions, and validation checks.
 
